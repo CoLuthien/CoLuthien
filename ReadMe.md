@@ -8,7 +8,7 @@
 
 ### Projects
 
-[In house game engine](https://github.com/CoLuthien/REngine) (in development)
+[In house game engine](https://github.com/CoLuthien/mir/) (in development)
 
 - [presentation for reflection](https://www.dropbox.com/s/58tko7wl9kby9gb/reflection%201.pdf?dl=0)
 
